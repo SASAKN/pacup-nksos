@@ -27,3 +27,4 @@ sudo bash pacup-installer.sh
 - **ペンえぬ**　（テンプレートを作成）
 - **桜咲ヒロ**　（プラットフォームを更新するために｢[**Snap**](https://snapcraft.io)」と「[**Flatpak**](https://flatpak.org)」を追加、機能追加・移植版の修正）
 - **シューゴ**　（主に機能追加・修正）
+- **ササケン** (NKSOSようにカスタマイズ)

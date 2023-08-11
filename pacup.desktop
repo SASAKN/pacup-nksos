@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Name=pacup
-Comment=Linux更新プログラム
-GenericName=Linux Updater Program
+Comment=パッケージのアップデート
+GenericName=Update Package
 Exec=sudo pacup -y
 Terminal=true
 Type=Application
